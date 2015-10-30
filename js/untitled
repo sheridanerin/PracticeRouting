@@ -1,0 +1,7 @@
+angular.module('firstRoutingApp').controller('mainController', ['mainService', '$scope', function(mainService, $scope) {
+
+
+
+
+
+}]);
